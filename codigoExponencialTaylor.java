@@ -9,13 +9,13 @@ public class App {
         double resultado = 0;
 
         // Entrada de Dados
-        System.out.print("Digite o valor do expoente: ");
+        System.out.print("Informe o valor do expoente: ");
         expoente = leitor.nextdouble();
 
         leitor.close();
 
         // Processamento
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 88; i++) {
             double exponenciacao = 1; 
             double fatorial = 1;
 
