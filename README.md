@@ -1,7 +1,7 @@
 <h1 align="center">✨ Portfólio para a disciplina de Bootcamp ✨</h1>
 
 
-🩰 - Meu nome é **Camila Azevedo** e eu curso **Análise e Desenvolvimento de Sistemas** no CEUB.
+🩰 - Meu nome é **Camila Azevedo** e eu curso o tecnólogo de **Análise e Desenvolvimento de Sistemas** no CEUB.
 
 🌸 - Esse portfólio está sendo feito com o intuito de familiarização com a plataforma e preparação para o mercado de trabalho. 
 
