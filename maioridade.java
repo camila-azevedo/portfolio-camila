@@ -9,9 +9,11 @@ public class Maioridade {
     System.out.print("Informe a sua idade: ");
         idade = leitor.nextInt();
 
- // Saída de daod
-        
-
-          
+ // Saída de dados
+    if (idade >= 18) {
+        System.out.println("Maior de idade.");
+    } else { 
+        System.out.println(Menor de idade.";
+              
     }
 }
